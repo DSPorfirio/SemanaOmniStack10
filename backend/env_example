@@ -1,0 +1,9 @@
+
+
+module.exports = {
+    MONGO_USER: "your_mongo_user",
+    MONGO_PASS: "your_mongo_password",
+    CONNECT: "your_mongo_connect_database",
+}
+
+//rename .env
